@@ -18,4 +18,5 @@ static const char * message = "Suckless: Software that sucks less.";
 static const char * text_color = "#ddfafa";
 
 /* text size (must be a valid size) */
+/* check available fonts with `slock -f` */
 static const char * font_name = "9x15";

@@ -1,9 +1,7 @@
 # Compilation files
 config.h
-explicit_bzero.o
 slock
-slock.o
+*.o
 
 # Patching stuff
-*.c.orig
-*.h.orig
+*.orig
